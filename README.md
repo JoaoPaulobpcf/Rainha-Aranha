@@ -16,9 +16,27 @@ As cores Predominates do nosso jogo sao tons terrosos como amarelo , laranja e m
 
 Assets 
 
+
+Personagem
+
 ![Captura de tela 2024-11-28 105848](https://github.com/user-attachments/assets/ff3c14bb-a387-4e97-bcaa-a3d67597b99a)
+
+Rainha Aranha
+
 ![Captura de tela 2024-11-28 110015](https://github.com/user-attachments/assets/4061f787-48ad-4f1a-b793-8d56544d6831)
+
+Buracos
+
 ![Captura de tela 2024-11-28 110637](https://github.com/user-attachments/assets/3a5463f1-fbde-4f62-9b3e-cf9dfd77f9fd)
+
+Obstaculos Pulaveis
+
 ![Captura de tela 2024-11-28 110128](https://github.com/user-attachments/assets/cd3cab6c-1679-40e5-a1ca-42528d11c2c7)
+
+Obstaculos nao Pulaveis
+
 ![Captura de tela 2024-11-28 110518](https://github.com/user-attachments/assets/61444d4c-2ada-422b-a366-0d154cc7dce1)
+
+Mapa Completo
+
 ![Captura de tela 2024-11-28 111239](https://github.com/user-attachments/assets/0c6a7b6b-8d97-4ad1-b020-a090d800f9c2)
