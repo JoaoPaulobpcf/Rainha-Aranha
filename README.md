@@ -6,6 +6,8 @@ Turma:2Mtec Desenvolvimento  de Jogos Digitais
 
 Membros:João PauloB.P.C.Filho e Kevin Cavalcante Silva
 
+OBS: Não tem a cena joga ainda nao foi colocado pq o meu mapa parece ter corrompido dentro do arquivo pois o unyti tem tudo salvo menos o mapa tentarei arrumar e se conseguir colo um link para o drive para acessar ele
+
 O nosso Jogo foi Planejado usando de base as cenas do filme o Escorpiao Rei Porem  tivemos alguns Problemas em Achar os assets para a criação da cena entao tivemos que improvisar utilizando do asset Rainha Aranha que da nome ao jogo, porem ainda mantendo um pouco de fidelidade a ideia original.
 
 O Objetivo do nosso Jogo é chagar a porta de saida enquanto tenta fugir da rainha aranha em quanto desvia de obstaculos e buracos por um coredor apertado que dificulta amobilidade do jogador servindo como um desafio estra , tendo apenas 3 vidas o jogador tera quem ser cuidadoso para nao bater nos obstaculos enquanto tenta nao ser capturado pela Rainha Aranha. 
