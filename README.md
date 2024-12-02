@@ -9,7 +9,7 @@ Membros:João PauloB.P.C.Filho e Kevin Cavalcante Silva
 Respomsabilidades:João Paulo Filho:Mapa,Idelização do Jogo e Repositorio
                   Kevin Cavalcante:Codigos e Diagrama
 
-Obeservação:Não poderei colocar nem o video 
+Obeservação:Não poderei colocar o video pois nao consigo abrir a sena funcional por problemas no unity
 
 Trabalho com a Dupla
 Ponto de Vista João: Nas Aulas emquanto eu estava ocupado fazendo o mapa e a idealização do jogo minha dupla estva responsavel pelo codigo e pelo diagrama, o primeiro diagrma que foi entregue foi feito por mim pois minha dupla nao se preucupou em fazer ou me proucurar para saber se eu estva fazendo já o segundo ele fez porem estava tao errado que decide refazer,os codigos que foram feitos foram entregues em cima da hora e imcompletos pq durante o dia ele ficou mandando alteraçãoes para eu fazer alem de estarem erados pelo observado no diagrama,alem de so pedir para ser colaborador hoje(1 de Dezembro as exatas 21:35 da noite e so me mandou o nome 22:10 da noite). 
@@ -18,6 +18,10 @@ Ponton de Vista Kevin:
 - Ao longo das aulas, fiz a movimentação do personagem, a movimentação da câmera, a exibição da vida, começei a fazer as colisões e planejei como faria as outras classes.
 - No sábado, devido a contratempos, havia feito somente parte dos códigos das colisões e da Rainha Aranha
 - No domingo, retrabalhei os códigos do personagem, da exibição de vidas e finalizei os códigos dos obstáculos e da Rainha Aranha
+
+Diagrama De Classe:
+![Talk to us](https://github.com/user-attachments/assets/1f5608d4-4b29-4d2b-be05-4eea509e7a3c)
+
 
 
 O nosso Jogo foi Planejado usando de base as cenas do filme o Escorpiao Rei Porem  tivemos alguns Problemas em Achar os assets para a criação da cena entao tivemos que improvisar utilizando do asset Rainha Aranha que da nome ao jogo, porem ainda mantendo um pouco de fidelidade a ideia original.
