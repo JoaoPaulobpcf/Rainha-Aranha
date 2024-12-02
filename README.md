@@ -11,8 +11,13 @@ Respomsabilidades:João Paulo Filho:Mapa,Idelização do Jogo e Repositorio
 
 Obeservação:Não poderei colocar o video pois nao consigo abrir a sena funcional por problemas no unity
 
+Link para pasta com o mapa do jogo:https://drive.google.com/drive/folders/1WvAt9xS9ALYwTwMdNXGA5FLXuOUuAOig?usp=drive_link
+
 Trabalho com a Dupla
-Ponto de Vista João: Nas Aulas emquanto eu estava ocupado fazendo o mapa e a idealização do jogo minha dupla estva responsavel pelo codigo e pelo diagrama, o primeiro diagrma que foi entregue foi feito por mim pois minha dupla nao se preucupou em fazer ou me proucurar para saber se eu estva fazendo já o segundo ele fez porem estava tao errado que decide refazer,os codigos que foram feitos foram entregues em cima da hora e imcompletos pq durante o dia ele ficou mandando alteraçãoes para eu fazer alem de estarem erados pelo observado no diagrama,alem de so pedir para ser colaborador hoje(1 de Dezembro as exatas 21:35 da noite e so me mandou o nome 22:10 da noite). 
+
+Ponto de Vista João:
+
+Nas Aulas emquanto eu estava ocupado fazendo o mapa e a idealização do jogo minha dupla estva responsavel pelo codigo e pelo diagrama, o primeiro diagrma que foi entregue foi feito por mim pois minha dupla nao se preucupou em fazer ou me proucurar para saber se eu estva fazendo já o segundo ele fez porem estava tao errado que decide refazer,os codigos que foram feitos foram entregues em cima da hora e imcompletos pq durante o dia ele ficou mandando alteraçãoes para eu fazer alem de estarem erados pelo observado no diagrama,alem de so pedir para ser colaborador hoje(1 de Dezembro as exatas 21:35 da noite e so me mandou o nome 22:10 da noite). 
 
 Ponton de Vista Kevin:
 - Ao longo das aulas, fiz a movimentação do personagem, a movimentação da câmera, a exibição da vida, começei a fazer as colisões e planejei como faria as outras classes.
